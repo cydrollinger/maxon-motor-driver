@@ -1,0 +1,49 @@
+Partlist exported from C:/Users/Cy/Documents/eagle/Max motor/MaxMotor.sch at 4/23/2018 2:59 PM
+
+Qty Value                       Device                      Package              Parts            Description                                      
+
+1   ANTENNA2SMD5                ANTENNA2SMD5                ANTENNA-CHIP5        U$1              Antenna                                          
+
+CAPACITOR
+1   .8pF                        C-ERC0402                   C0402                C3                                                                
+1   2.2pF                       C-ERC0402                   C0402                C13                                                               
+2   20pF                        C-ERC0402                   C0402                C1, C2                                                            
+1   100pF                       C-ERC0402                   C0402                C7                                                                
+1   1.0nF                       C-ERC0402                   C0402                C32                                                               
+1   10nF                        C-ERC0402                   C0402                C22                                                               
+3   100nF                       C-ERC0402                   C0402                C4, C5, C8, C11, C21, C23                                                        
+2   1.0uF                       C-ERC0402                   C0402                C10, C33                                                          
+2   4.7UF                       C-ER                        C0805                C9, C31                                                               
+1                               C-ERC0402                   C0402                C6                                                                
+
+CONNECTOR
+1   MICRO-USB-SHIELD-ZX62R-B-5P MICRO-USB-SHIELD-ZX62R-B-5P ZX62R-B-5P           U$4              Hirose Micro USB Connector                       
+1   52745-0890                  52745-0890                  52745-0890           X1               FFC/FPC-to-Board  0.50mm (.020") SMT Top Contact 
+
+CRYSTAL
+1   FA-128                      FA-128                      FA-128               16M                                                               
+
+IC
+1   NRF52832                    NRF52832                    QFN48                IC1                                                               
+1   MPU9250_CORRECTED           MPU9250_CORRECTED           3X3_24_QFN_CORRECTED IC2                                                               
+1   MCP1727                     MCP1727                     DFN8-3X3             IC3                                                               
+1   TSL238T                     TSL238T                     T4                   IC4                                                               
+2   ICS-43432                   Microphone                  ICS-43432            IC5, IC6
+
+INDUCTOR
+2   3.9nH                       L-ERL402                    R0402                L1, L4                                                            
+1   15nH                        L-ERL402                    R0402                L3                                                                
+1   10UH                        L-ERL603                    R0603                L2                                                                
+1   N.C.                        L-ERL402                    R0402                L5                                                                
+
+LED
+1   1X1RGB                      1X1RGB                      1X1                  LED                                                               
+
+RESISTOR
+1   0                           R-ER-TINYR402               R0402                R1                                                                
+4   100                         R-ER-TINYR402               R0402                R3, R4, R5, R31                                                   
+1   100k                        R-ERR0402                   R0402                R2                                                                
+
+TRANSISTOR
+3   FDC2512                     FDC2512                     SSOT6                MD12, MD22, MD32                                                  
+3   NCP45524/25                 NCP45524/25                 DFN8                 U$2, U$5, U$6                                                     
