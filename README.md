@@ -1,5 +1,5 @@
+<a href="https://elec-real.com"><img src="/docs/github.png" ></img></a>
 
-![ER_LOGO](/docs/github.png)
 >Electronic Realization L.L.C.								   
 >Design: Maxon Motor Driver with Bluetooth v4.2/5.0		   
 >Engineer: Cy Drollinger								   
