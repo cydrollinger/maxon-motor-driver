@@ -1,4 +1,4 @@
-<a href="https://elec-real.com"><img src="/docs/github.png" ></img></a>
+<a href="https://elec-real.com/case-studies/maxon-motor-driver/"><img src="/docs/github.png" ></img></a>
 
 >Electronic Realization L.L.C.								   
 >Design: Maxon Motor Driver with Bluetooth v4.2/5.0		   
