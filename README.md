@@ -4,16 +4,15 @@
 >Design: Maxon Motor Driver with Bluetooth v4.2/5.0		   
 >Engineer: Cy Drollinger								   
 >Date: 4/18												           
->Email: cy@elec-real.com								   
+>Email: cy@elec-real.com
+>Website: https://elec-real.com								   
 >Address: 2023 Stadium Dr Suite 2B #210 Bozeman, MT 59715				   
 >Phone: 406-539-8117	
 
 **NOTE:**
- This design has been tested and functions as specified. The design is provided gratis, so, please 
- think critically while utilizing and or redesigning. Open electronic circuitry can be dangerous due 
- to easily shorting circuits which can generate immediate and intense heat resulting in fire. Conversation is
- welcome to improve this design and repository, but, be advised ER is a professional design house and
- monetary compensation is required for additional work toward this design enabling your success.			   
+ This case study has been tested and functions as specified. ER is a professional design house and monetary compensation is required for additional work toward this design enabling your monetary success, but conversation is welcome and appreciated toward improving any or all this design and its repository. 
+
+ Think critically while operating and or redesigning this system. Open electronic circuitry can be dangerous due to easily shorting circuits which can generate immediate and intense heat resulting in fire. This is only one example of ill advised use. 			   
 	 
 ![Maxon Motor Driver](/docs/pictures/ICSP.png)
 
